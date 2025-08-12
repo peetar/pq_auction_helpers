@@ -21,3 +21,7 @@
 10) A few hours later, log back into your trader and /ouput inventory again.
 
 11) Check the auction tool and it should update with al lthe items you sold.
+
+# bzr_sync_app.py
+
+just run this to sync lowest prices across multiple mules
